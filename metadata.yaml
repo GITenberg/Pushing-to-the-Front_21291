@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1515
     wikipedia: http://en.wikipedia.org/wiki/Orison_Swett_Marden
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21291#Pushing-to-the-Front
 gutenberg_issued: '2007-05-04'
 gutenberg_type: Text
 identifiers:
